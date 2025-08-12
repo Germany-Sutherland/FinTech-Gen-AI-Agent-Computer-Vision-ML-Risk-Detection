@@ -1,0 +1,6 @@
+streamlit>=1.18.0
+pandas
+numpy
+scikit-learn
+jinja2
+python-docx>=0.8.11
